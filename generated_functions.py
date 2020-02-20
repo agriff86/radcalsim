@@ -11,7 +11,6 @@ and pressure inside the radon detector.
 from numpy import exp
 from numpy import sqrt
 from numpy import abs
-import numba
 
 lambda_r = 2.100140526711101e-6
 lambda_a = 0.003787689511256532
