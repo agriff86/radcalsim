@@ -1,0 +1,10 @@
+name: radcalsim
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+
+  
+
